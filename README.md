@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **ks7876555+pro@gmail.com**
+
 ###
 
 <div align="center">
@@ -15,7 +15,7 @@
 ###
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">- 📫 How to reach me **ks7876555+pro@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
