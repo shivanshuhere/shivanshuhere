@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 🌱 I’m currently learning React Native<br>💬 Ask me about Full Stack<br>
 
 
