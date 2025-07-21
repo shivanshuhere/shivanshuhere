@@ -68,6 +68,5 @@ and getting deeper into Python's AI/ML space with a hands-on approach.
 
 <p align="center">
   <a href="mailto:try.shivanshu@gmail.com">Email</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/shivanshuhere">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/shivanshuhere">GitHub</a>
+  <a href="https://www.linkedin.com/in/shivanshuhere">LinkedIn</a> 
 </p>
