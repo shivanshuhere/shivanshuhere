@@ -2,8 +2,6 @@
   <img src="https://media1.tenor.com/m/w1ps4KuoragAAAAd/yes-computer.gif" width="300" />
   
 </p>
-
-<h1 align="center">shivanshu.exe</h1>
 <p align="center"><i>No console logs. Just signal.</i></p>
 
 <br/>
