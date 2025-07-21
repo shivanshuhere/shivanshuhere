@@ -1,24 +1,72 @@
-# 👋 Hola!  Shivanshu Here
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="360" alt="Terminal Typing" />
+</p>
 
+<h1 align="center">shivanshu.exe</h1>
+<p align="center"><i>No console logs. Just signal.</i></p>
 
-![Dev Working](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<br/>
 
----
+<pre>
+📡 Signal Profile
+─────────────────
+Handle       : Shivanshu Koundal
+Zone         : India — Remote Friendly
+Mode         : Backend-focused developer with full-stack range
+In Progress  : Training AI models, refining mobile UX in React Native
+</pre>
 
-### 🧰 Tech Stack
-- **Languages:** JavaScript, Python  
-- **Frontend:** React.js, Tailwind CSS, HTML, CSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB (Atlas & Compass)  
-- **Tools:** Postman, Git & GitHub, Linux, Figma, WordPress
+<br/>
 
----
+<pre>
+📚 What I Do
+────────────
+I like building things that run quietly and do their job well —  
+mostly backend systems, secure flows, and APIs that make sense.
 
-### 📊 GitHub Stats
-![Shivanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanshuhere&show_icons=true&theme=default)
+Right now, I'm learning more about mobile dev with React Native  
+and getting deeper into Python's AI/ML space with a hands-on approach.
+</pre>
 
----
+<br/>
 
-### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivanshuhere)  
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:try.shivanshu@gmail.com)
+<p align="center">
+  ⚙️ <strong>Tech Stack</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/React_Native-111?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/TailwindCSS-111?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Postman-111?style=for-the-badge&logo=postman" />
+</p>
+
+<br/>
+
+<p align="center">
+  📈 <strong>System Metrics</strong><br>
+  <sub>Just stats. No noise.</sub>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivanshuhere&show_icons=true&hide_title=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshuhere&layout=compact&hide_title=true&theme=tokyonight" width="47%" />
+</p>
+
+<hr style="border: none; height: 1px; background-color: #2d2d2d;">
+
+<p align="center">
+  🔗 <strong>Reach Out</strong><br>
+  <sub>Clean builds. Real conversations. Let’s talk.</sub>
+</p>
+
+<p align="center">
+  <a href="mailto:try.shivanshu@gmail.com">Email</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/shivanshuhere">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/shivanshuhere">GitHub</a>
+</p>
