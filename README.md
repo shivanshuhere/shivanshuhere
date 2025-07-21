@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="360" alt="Terminal Typing" />
+  <img src="https://media1.tenor.com/m/w1ps4KuoragAAAAd/yes-computer.gif" width="300" />
+  
 </p>
 
 <h1 align="center">shivanshu.exe</h1>
