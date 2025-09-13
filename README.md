@@ -47,16 +47,6 @@ and getting deeper into Python's AI/ML space with a hands-on approach.
 
 <br/>
 
-<p align="center">
-  📈 <strong>System Metrics</strong><br>
-  <sub>Just stats. No noise.</sub>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanshuhere&show_icons=true&hide_title=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshuhere&layout=compact&hide_title=true&theme=tokyonight" width="47%" />
-</p>
-
 <hr style="border: none; height: 1px; background-color: #2d2d2d;">
 
 <p align="center">
