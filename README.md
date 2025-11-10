@@ -2,12 +2,12 @@
   <img src="https://media1.tenor.com/m/w1ps4KuoragAAAAd/yes-computer.gif" width="300" />
   
 </p>
-<p align="center"><i>No console logs. Just signal.</i></p>
+<p align="center"><i>No console logs.</i></p>
 
 <br/>
 
 <pre>
-📡 Signal Profile
+📡  Profile
 ─────────────────
 Handle       : Shivanshu Koundal
 Zone         : India — Remote Friendly
