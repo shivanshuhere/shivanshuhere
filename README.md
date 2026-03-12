@@ -1,60 +1,61 @@
-<p align="center">
-  <img src="https://media1.tenor.com/m/w1ps4KuoragAAAAd/yes-computer.gif" width="300" />
-  
-</p>
-<p align="center"><i>No console logs.</i></p>
-
-<br/>
-
-<pre>
-📡  Profile
-─────────────────
-Handle       : Shivanshu Koundal
-Zone         : India — Remote Friendly
-Mode         : Backend-focused developer with full-stack range
-In Progress  : Training AI models, refining mobile UX in React Native
-</pre>
-
-<br/>
-
-<pre>
-📚 What I Do
-────────────
-I like building things that run quietly and do their job well —  
-mostly backend systems, secure flows, and APIs that make sense.
-
-Right now, I'm learning more about mobile dev with React Native  
-and getting deeper into Python's AI/ML space with a hands-on approach.
-</pre>
-
-<br/>
+<h1 align="center">Hi, I'm Shivanshu Koundal 👋</h1>
+<h3 align="center">Full-Stack Developer • MERN | AI-Driven Web Solutions</h3>
 
 <p align="center">
-  ⚙️ <strong>Tech Stack</strong>
+  <a href="mailto:try.shivanshu@gmail.com">Email</a> •
+  <a href="https://github.com/shivanshuhere">GitHub</a> •
+  <a href="https://www.linkedin.com/in/shivanshuhere/">LinkedIn</a> •
+  Kangra, Himachal Pradesh, India
 </p>
 
+---
+
+## 👨‍💻 About Me
+
+I'm a Full-Stack Developer focused on building clean, scalable, and user-centric web applications using the **MERN stack** and **AI-powered tools**.
+
+- 🎓 **BCA Graduate** – Govt. Degree College Nagrota Bagwan
+- 🌐 Experienced in **React.js, Node.js, Express, MongoDB** and **cloud-based data solutions**
+- 🤖 Interested in **LLM-based apps**, AI-assisted tools, and workflow automation
+
+---
+
+## 🧠 Tech Stack
+
+**Languages & Frameworks**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Web & Databases**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/React_Native-111?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/TailwindCSS-111?style=for-the-badge&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Postman-111?style=for-the-badge&logo=postman" />
-</p>
-
-<br/>
-
-<hr style="border: none; height: 1px; background-color: #2d2d2d;">
-
-<p align="center">
-  🔗 <strong>Reach Out</strong><br>
-  <sub>Clean builds. Real conversations. Let’s talk.</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivanshuhere&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <a href="mailto:try.shivanshu@gmail.com">Email</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/shivanshuhere">LinkedIn</a> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shivanshuhere&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
+
+If you’d like to collaborate or discuss a project, feel free to reach out at **try.shivanshu@gmail.com**.
