@@ -3,8 +3,6 @@
 
 <p align="center">
   <a href="mailto:try.shivanshu@gmail.com">Email</a> •
-  <a href="https://github.com/shivanshuhere">GitHub</a> •
-  <a href="https://www.linkedin.com/in/shivanshuhere/">LinkedIn</a> •
   Kangra, Himachal Pradesh, India
 </p>
 
