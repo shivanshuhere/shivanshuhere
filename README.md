@@ -46,16 +46,6 @@ I'm a Full-Stack Developer focused on building clean, scalable, and user-centric
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanshuhere&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shivanshuhere&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 If you’d like to collaborate or discuss a project, feel free to reach out at **try.shivanshu@gmail.com**.
